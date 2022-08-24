@@ -1,0 +1,92 @@
+ul {
+ padding: 0px !important
+}
+
+body {
+width: 100%;
+height: 100%;
+margin: 0 auto;
+}
+
+main {
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+
+.logo{
+float: left;
+padding: 8px ;
+width: 75%;
+}
+
+
+.menu-principal {
+width: 100%;
+background-color: rgb(255, 255, 255);
+height: 60px;
+}
+
+.redes-sociais ul li {
+margin-left: 8px;
+display: inline-block;
+list-style: none;
+}
+
+.redes-sociais{
+width:20% ;
+float: right;
+margin: -3px;
+}
+
+.header-2 {
+    background-color: #a3a3a3;
+    width: 980px;
+    margin: 0 auto;
+    padding: 2px;
+
+}
+
+.menu-urls{
+    border-bottom: 3px solid #efefef;
+    height: 80px;
+
+}
+.menu ul li {
+    display: inline-block;   
+    color: black; 
+    margin-left: 15px;                   
+
+}
+
+.menu ul li a {
+color: black;
+text-decoration: none;
+font-size: 15px;
+text-transform: uppercase;
+
+}
+
+.menu {
+    width: 70%;
+    float: left;
+
+    
+}
+
+.busca {
+    width: 30%;
+    float: right;
+}
+
+.busca input{
+    margin-top: 10px;
+
+}
+
+
+.coluna-100{
+    width: 100%;
+    float: left;
+    position: relative;
+}
